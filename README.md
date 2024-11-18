@@ -5,8 +5,6 @@ A simple Flappy Bird clone built using **HTML**, **JavaScript**, and **Phaser**.
 ## 🎮 Game Preview
 ![Game Screenshot](assets/gamescreenshot.png)
 
-## 📹 Gameplay GIF
-![Gameplay GIF](assets/gameplay.gif)
 
 ## 🎮 How to Play
 - Click or press space to make the bird fly.
